@@ -39,9 +39,5 @@ Loan_Default_Analysis/
 ├─ python/
 │ └─ loan_visualizations.py # Python script to generate visualizations
 │
-├─ images/ # Save all plots here
-│ ├─ default_by_income.png
-│ ├─ top_cities_defaults.png
-│ └─ loan_income_ratio.png
 │
 ├─ README.md # Project description
